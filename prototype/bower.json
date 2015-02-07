@@ -1,99 +1,52 @@
 {
-  "name": "prototype",
-  "version": "0.0.0",
-  "dependencies": {
-  	
-  		"inuit-defaults" : "latest",
-  	
-  		"inuit-responsive-settings" : "latest",
-  	
-  		"inuit-functions" : "latest",
-  	
-  		"inuit-mixins" : "latest",
-  	
-  		"inuit-responsive-tools" : "latest",
-  	
-  		"inuit-box-sizing" : "latest",
-  	
-  		"inuit-normalize" : "latest",
-  	
-  		"inuit-reset" : "latest",
-  	
-  		"inuit-shared" : "latest",
-  	
-  		"inuit-headings" : "latest",
-  	
-  		"inuit-images" : "latest",
-  	
-  		"inuit-lists" : "latest",
-  	
-  		"inuit-page" : "latest",
-  	
-  		"inuit-paragraphs" : "latest",
-  	
-  		"inuit-box" : "latest",
-  	
-  		"inuit-buttons" : "latest",
-  	
-  		"inuit-flag" : "latest",
-  	
-  		"inuit-layout" : "latest",
-  	
-  		"inuit-list-bare" : "latest",
-  	
-  		"inuit-list-block" : "latest",
-  	
-  		"inuit-list-inline" : "latest",
-  	
-  		"inuit-list-ui" : "latest",
-  	
-  		"inuit-media" : "latest",
-  	
-  		"inuit-pack" : "latest",
-  	
-  		"inuit-tables" : "latest",
-  	
-  		"inuit-tabs" : "latest",
-  	
-  		"inuit-clearfix" : "latest",
-  	
-  		"inuit-print" : "latest",
-  	
-  		"inuit-spacing" : "latest",
-  	
-  		"inuit-spacing-responsive" : "latest",
-  	
-  		"inuit-widths" : "latest",
-  	
-  		"inuit-widths-responsive" : "latest",
-  	
-  	
-  		"plumpcss-defaults" : "latest",
-  	
-  		"plumpcss-functions" : "latest",
-  	
-  		"plumpcss-mixins" : "latest",
-  	
-  		"plumpcss-band" : "latest",
-  	
-  		"plumpcss-band-responsive" : "latest",
-  	
-  		"plumpcss-exhibit" : "latest",
-  	
-  		"plumpcss-meter" : "latest",
-  	
-  		"plumpcss-nav-list" : "latest",
-  	
-  		"plumpcss-stack" : "latest",
-  	
-  		"plumpcss-wrapper" : "latest",
-  	
-  		"plumpcss-floats" : "latest",
-  	
-  		"plumpcss-hide" : "latest",
-  	
-  		"plumpcss-text-align" : "latest"
-  	
-  }
+	"name": "DevJMDBlog",
+	"version": "0.1.0",
+	"dependencies": {
+		"inuit-defaults" : "latest",
+		"inuit-responsive-settings" : "latest",
+		"inuit-functions" : "latest",
+		"inuit-mixins" : "latest",
+		"inuit-responsive-tools" : "latest",
+		"inuit-box-sizing" : "latest",
+		"inuit-normalize" : "latest",
+		"inuit-reset" : "latest",
+		"inuit-shared" : "latest",
+		"inuit-headings" : "latest",
+		"inuit-images" : "latest",
+		"inuit-lists" : "latest",
+		"inuit-page" : "latest",
+		"inuit-paragraphs" : "latest",
+		"inuit-box" : "latest",
+		"inuit-buttons" : "latest",
+		"inuit-flag" : "latest",
+		"inuit-layout" : "latest",
+		"inuit-list-bare" : "latest",
+		"inuit-list-block" : "latest",
+		"inuit-list-inline" : "latest",
+		"inuit-list-ui" : "latest",
+		"inuit-media" : "latest",
+		"inuit-pack" : "latest",
+		"inuit-tables" : "latest",
+		"inuit-tabs" : "latest",
+		"inuit-clearfix" : "latest",
+		"inuit-print" : "latest",
+		"inuit-spacing" : "latest",
+		"inuit-spacing-responsive" : "latest",
+		"inuit-widths" : "latest",
+		"inuit-widths-responsive" : "latest",
+		"plumpcss-defaults" : "latest",
+		"plumpcss-functions" : "latest",
+		"plumpcss-mixins" : "latest",
+		"plumpcss-band" : "latest",
+		"plumpcss-band-responsive" : "latest",
+		"plumpcss-exhibit" : "latest",
+		"plumpcss-meter" : "latest",
+		"plumpcss-nav-list" : "latest",
+		"plumpcss-stack" : "latest",
+		"plumpcss-wrapper" : "latest",
+		"plumpcss-floats" : "latest",
+		"plumpcss-hide" : "latest",
+		"plumpcss-text-align" : "latest"
+	}
 }
 
